@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UKV4vCldLIyVkegdoupMhLHk5tM1wU8YLvNJt1XezNrnthYZSaNJm7wfs6mOnpiTiiWuRg137NguaoamQhWEoA==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\Cris Games\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\thebackrooms\\thebackrooms.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Cris Games\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}

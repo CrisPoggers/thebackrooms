@@ -1,0 +1,6 @@
+displayName = The Backrooms
+author = CrisPoggers, AP STP & Tomat
+version = 1.0.0.0
+hideResources = true
+hideCode = true
+homepage = https://www.youtube.com/channel/UC_4-N9X0pNSaIklTE_v0QNA

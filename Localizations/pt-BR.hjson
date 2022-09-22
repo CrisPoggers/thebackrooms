@@ -1,0 +1,19 @@
+Mods:{
+thebackrooms:{
+
+ItemName:{
+TestingItem:"O Valentão"
+BottleOfCarpetLiquid:"Garrafa de Liquido de Carpet"
+BottleOfAlmondWater:"Garrafa de Água de Amenda"
+PieceOfWallpaper:"Pedaço de Papel de Parede"
+}
+
+ItemTooltip:{
+TestingItem:"Ele."
+BottleOfCarpetLiquid:"Ehm!"
+BottleOfAlmondWater:"Um doçe Gosto de Balmilia."
+PieceOfWallpaper:"A Loucura do Mono-Amarelo."
+}
+
+}
+}
